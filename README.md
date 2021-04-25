@@ -1,3 +1,3 @@
 # SergeyLebidko.github.io
 
-Собранный проект hProger. Исходный код доступен [https://github.com/SergeyLebidko/hungry_proger](тут)
+Собранный проект hProger. Исходный код доступен [тут](https://github.com/SergeyLebidko/hungry_proger)
